@@ -105,4 +105,4 @@ I focus on crafting resilient backend systems that streamline operations for you
 
 ---
 
-<div align="center">&copy;<a href="https://www.harvard.edu" target="_blank">F8DC102</a></div>
+<div align="center">&copy;<a href="https://www.harvard.edu" target="_blank"> F8DC102</a></div>
