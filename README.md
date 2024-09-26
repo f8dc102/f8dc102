@@ -2,7 +2,7 @@
 
 I'm a seasoned full-stack developer whose freelancing experience has blossomed into a thriving full-time career. My expertise spans both client-facing applications and websites, alongside cutting-edge backend development.
 
-I focus on crafting resilient backend systems that streamline operations for your applications and websites. I take pride in designing systems that are elegant yet robust, distributed yet cohesive, and not only aesthetically pleasing but also highly functional. Beyond development, I regularly share insights on system design, databases, security, servers, optimization, and emerging technologies such as Blockchain and PWAs through my blogging efforts.
+I focus on crafting resilient backend systems that streamline operations for your applications and websites. I take pride in designing systems that are elegant yet robust, distributed yet cohesive, and not only aesthetically pleasing but also highly functional.
 
 <br/>
 
@@ -52,30 +52,24 @@ I focus on crafting resilient backend systems that streamline operations for you
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/null" target="_blank">
+<a href="https://dev.to/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/null" target="_blank">
+<a href="https://linkedin.com/in/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/null" target="_blank">
+<a href="https://gitlab.com/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/null" target="_blank">
+<a href="https://stackoverflow.com/users/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/null" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/f8dc90c4" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/null" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
 </div>
 
 <br/>
@@ -95,14 +89,10 @@ I focus on crafting resilient backend systems that streamline operations for you
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/null" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/f8dc012" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
             </a></div>
 <br />
-
----
-
-<div align="center">&copy;<a href="https://www.harvard.edu" target="_blank"> F8DC102</a></div>
