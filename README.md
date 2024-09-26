@@ -64,7 +64,7 @@ I focus on crafting resilient backend systems that streamline operations for you
 <a href="https://gitlab.com/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/f8dc102" target="_blank">
+<a href="https://stackoverflow.com/users/21097826/f8dc102" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/f8dc90c4" target="_blank">
