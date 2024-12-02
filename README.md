@@ -3,6 +3,7 @@
 <h3 align="center">👋 Hello, World! 👋</h3>
 <p align="center">
 I'm a freelance full-stack developer and student.
+<br>
 Passionate about building efficient, scalable, and modern applications.
 </p>
 
