@@ -2,7 +2,8 @@
 
 <h3 align="center">👋 Hello, World! 👋</h3>
 <p align="center">
-I'm a freelance full-stack developer and student. Passionate about building efficient, scalable, and modern applications.
+I'm a freelance full-stack developer and student.
+Passionate about building efficient, scalable, and modern applications.
 </p>
 
 <h3 align="center">📚 Technology Stacks 📚</h3>
