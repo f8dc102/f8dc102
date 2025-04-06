@@ -4,7 +4,7 @@
 <p align="center">
 I'm a <strong>freelance full-stack developer</strong> and an undergraduate student in a computer-related department.
 <br>
-Passionate about building efficient, scalable, and modern applications.
+Passionate about crafting scalable, high-performance apps that feel as good as they run.
 </p>
 
 ---
