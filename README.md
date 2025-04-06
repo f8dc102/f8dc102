@@ -2,16 +2,18 @@
 
 <h3 align="center">👋 Hello, World! 👋</h3>
 <p align="center">
-I'm a freelance full-stack developer and student.
+I'm a <strong>freelance full-stack developer</strong> and an undergraduate student in a computer-related department.
 <br>
 Passionate about building efficient, scalable, and modern applications.
 </p>
 
+---
+
 <h3 align="center">📚 Technology Stacks 📚</h3>
 
 <p align="center">
-  <strong>💻 Programming Languages:</strong><br>
-  <img src="https://img.shields.io/badge/-Rust-blueviolet"/>&nbsp
+  <strong>💻 Programming Languages 💻</strong><br>
+  <img src="https://img.shields.io/badge/-Rust-blueviolet" />&nbsp
   <img src="https://img.shields.io/badge/-C%20Family-lightblue"/>&nbsp
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
@@ -19,7 +21,7 @@ Passionate about building efficient, scalable, and modern applications.
 </p>
 
 <p align="center">
-  <strong>🛠️ Frameworks & Libraries:</strong><br>
+  <strong>🛠️ Frameworks & Libraries 🛠️</strong><br>
   <img src="https://img.shields.io/badge/-Actix-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-forestgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
@@ -28,7 +30,7 @@ Passionate about building efficient, scalable, and modern applications.
 </p>
 
 <p align="center">
-  <strong>☁️ Tools & Platforms:</strong><br>
+  <strong>☁️ Tools & Platforms ☁️</strong><br>
   <img src="https://img.shields.io/badge/-AWS-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Nginx-green"/>&nbsp
@@ -37,10 +39,11 @@ Passionate about building efficient, scalable, and modern applications.
 </p>
 
 <p align="center">
-  <strong>📂 Databases:</strong><br>
+  <strong>📂 Databases 📂</strong><br>
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6"/>&nbsp
   <img src="https://img.shields.io/badge/-PostgreSQL-blueviolet"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>&nbsp
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=📷%20Instagram&section=footer&desc=@f8d90c4&descAlign=90&descAlignY=80&fontSize=30&fontAlign=80&fontAlignY=60)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=footer)
