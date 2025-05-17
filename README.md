@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=F8DC102&textBg=false&section=header&rotate=3&fontSize=77&desc=A%20Full%20Stack%20Developer&reversal=false&fontAlignY=37&descAlignY=49&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=67D48D5&textBg=false&section=header&rotate=3&fontSize=77&desc=A%20Full%20Stack%20Developer&reversal=false&fontAlignY=37&descAlignY=49&animation=twinkling)
 
 <h3 align="center">👋 Hello, World! 👋</h3>
 <p align="center">
